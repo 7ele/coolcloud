@@ -1,3 +1,3 @@
 [
-    {"ip": "play.hypixel.net", "name": "Hypixel Network", "description": "Hypixel Network is the largest server in the world, featuring mainly minigames such as Bedwars or Skywars, their most popular gamemode is Skyblock", "banner": "/assets/hypixel.gif", "tags": ["Version 1.8-1.21", "Minigames", "Java Edition"]}
+    {"ip": "play.hypixel.net", "name": "Hypixel Network", "description": "Hypixel Network is the largest server in the world, featuring mainly minigames such as Bedwars or Skywars, their most popular gamemode is Skyblock", "banner": "https://7ele.github.io/coolcloud/assets/hypixel.gif", "tags": ["Version 1.8-1.21", "Minigames", "Java Edition"]}
 ]
