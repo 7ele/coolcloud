@@ -1,3 +1,4 @@
 [
-    {"ip": "play.hypixel.net", "name": "Hypixel Network", "description": "Hypixel Network is the largest server in the world, featuring mainly minigames such as Bedwars or Skywars, their most popular gamemode is Skyblock", "banner": "https://7ele.github.io/coolcloud/assets/hypixel.gif", "tags": ["Version 1.8-1.21", "Minigames", "Java Edition"]}
+    {"ip": "play.hypixel.net", "name": "Hypixel Network", "description": "Hypixel Network is the largest server in the world, featuring mainly minigames such as Bedwars or Skywars, their most popular gamemode is Skyblock", "banner": "https://7ele.github.io/coolcloud/assets/hypixel.gif", "tags": ["Version 1.8-1.21", "Minigames", "Java Edition"]},
+    {"ip": "og-network.net", "name":"OG Network", "description":"The OG Network is a minecraft server dedicated to reviving the old style minecraft experience. We are not pay2win, and focus on the player rather than money.", "banner": "https://minecraft-mp.com/assets/mp4/banner-282687-1640713783.mp4", "tags": ["1.8-1.21.x", "Survival SMP", "Crossplay"]}
 ]
